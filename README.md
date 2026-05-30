@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi, I'm Yazgül 👋
+
+Media Informatics student from Germany passionate about UI/UX design, frontend development, and mobile applications.
+
+
+Skills:
+- UI/UX Design
+- Figma
+- Adobe Photoshop, Illustrator & InDesign
+- HTML, CSS, JavaScript
+- Java
+- Kotlin (Learning)
+- Flutter (Learning)
+
 
 <!--
 **yazguel/yazguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
